@@ -1,0 +1,43 @@
+body {
+    background-color: #15151e;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+    
+button {
+    background-color: #f60800;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer; 
+    margin-right: 10px;
+}
+
+.judul-tugas {
+    font-size: 36px; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    margin-bottom: 40px; 
+}
+
+button:hover {
+    background-color: #000000;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right:10px;
+}
+
+.kartu-id {
+    background-color: #222222;
+    border-left: 5px solid #f60800;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    text-transform: uppercase;
+}
